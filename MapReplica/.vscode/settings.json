@@ -1,0 +1,5 @@
+{
+    "FSharp.fsacRuntime": "net",
+    "cmake.configureOnOpen": false,
+    
+}

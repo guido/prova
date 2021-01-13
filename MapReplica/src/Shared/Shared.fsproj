@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2</TargetFramework>
+    
+  </PropertyGroup>
+
+  <ItemGroup>        
+    <Compile Include="GeoShared.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="netstandard2" />
+  </ItemGroup>
+
+</Project>
